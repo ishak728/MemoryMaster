@@ -19,12 +19,15 @@ You can improve your memory with this application. This game is for 2 players. Y
 ![Ekran Görüntüsü (10495)](https://user-images.githubusercontent.com/91196350/220881810-a5017b85-e951-4674-9e7b-8b5c627cc3f4.png)
 
 
-![Ekran Görüntüsü (10496)](https://user-images.githubusercontent.com/91196350/220881812-c81eceb7-fcfe-486e-a572-17d4c7baa107.png)
+![Ekran Görüntüsü (10496)](https://user-images.githubusercontent.com/91196350/220881812-c81eceb7-fcfe-486e-a572-17d4c7baa107.png)<br>
 
-
-![Ekran Görüntüsü (10497)](https://user-images.githubusercontent.com/91196350/220881813-2b493efb-7e1b-4c1d-b4c6-c4941298e63b.png)
+Here you can choose 2x2,4x4 and 6x6 games<br>
+![Ekran Görüntüsü (10497)](https://user-images.githubusercontent.com/91196350/220881813-2b493efb-7e1b-4c1d-b4c6-c4941298e63b.png)<br>
+This is a 4x4 game.<br>
 ![Ekran Görüntüsü (10498)](https://user-images.githubusercontent.com/91196350/220881816-787e564d-0f06-4295-aa0a-430f01c2bfe1.png)
-![Ekran Görüntüsü (10499)](https://user-images.githubusercontent.com/91196350/220881823-3c3eb571-452d-4c72-ad15-e8d51282f933.png)
+![Ekran Görüntüsü (10499)](https://user-images.githubusercontent.com/91196350/220881823-3c3eb571-452d-4c72-ad15-e8d51282f933.png)<br>
+
+2 players should play here.<br>
 ![Ekran Görüntüsü (10500)](https://user-images.githubusercontent.com/91196350/220881828-bc71592a-a45d-4bef-8f55-57f4fa595131.png)
 
 ![Ekran Görüntüsü (10501)](https://user-images.githubusercontent.com/91196350/220881806-0ba584d3-610c-4c39-9f07-11626ae888a9.png)
