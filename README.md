@@ -12,6 +12,8 @@ You can improve your memory with this application. This game is for 2 players. Y
 - `Alert dialogue`(When the game is over, a prompt will appear asking if you want to play again.)
 - `Thread`
 
+# Screenshots
+
 #### This is log in Screen<br>
 ![Ekran Görüntüsü (10494)](https://user-images.githubusercontent.com/91196350/220881809-f844acf8-122e-47a3-84ec-998432108d57.png)<br>
  
