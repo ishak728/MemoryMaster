@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754266667100",
+    "project_id": "memorymasterr-b8470",
+    "storage_bucket": "memorymasterr-b8470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754266667100:android:c760363fd240cad2ba8e99",
+        "android_client_info": {
+          "package_name": "com.ishak.memorymasterr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754266667100-p3vkvkgdv84mb45jp0nrn5pjbhgm2910.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVJAiVG7gDtmhSunAqzZpF-UWOUGzoGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754266667100-p3vkvkgdv84mb45jp0nrn5pjbhgm2910.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
